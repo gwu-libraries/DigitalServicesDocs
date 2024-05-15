@@ -32,8 +32,8 @@ Presently, GWU Special Collections only ingests access copies of digital collect
   - If you use this script, you should still review the metadata before upload. The script pulls description from ancestor records (series, resource, ect.) that may not be appropriate for what is represented by the digital content.
     - An example of this might be rights information. The script will pull the rights statement from the resource (collection) record. This may not apply to item-level description for the digital content.
 - You may also include additional derivatives (SRT/VTT caption files, text files) in your upload. To do so, add an additional row to the CSV for each identifier. Match the identifier to the file of the additional derivative. 
-  - Note that the Internet Archvive generates OCR for text-based documents automatically. We cannot overwrite this generated OCR. We can still upload any corrected OCR, but it will not be used for full-text search results.
-![CSV screenshot](/assets/images/sidecar_upload.png)
+  - Note that the Internet Archive generates OCR for text-based documents automatically. We cannot overwrite this generated OCR. We can still upload any corrected OCR, but it will not be used for full-text search results.
+![CSV screenshot](/assets/images/sidecar_upload.PNG)
 
 ### Uploading Content to Internet Archive
 - Once both your files and metadata are prepared you are ready to upload! To do so, you can use your command line interface to start the upload. In your command line (PowerShell, Terminal, ect.) navigate to the directory with the files and your CSV spreadsheet. 
