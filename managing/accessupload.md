@@ -16,8 +16,8 @@ Presently, GWU Special Collections only ingests access copies of digital collect
 - [Internet Archive OCR](https://archive.org/developers/ocr.html)
   
 ### Supporting Documents
-- [GW SCRC Metadata Scheme for Internet Archive (Documents and Text)](/assets/files/csv/MetadataScheme_GWSCRC_Documents.xlsx)
-- [GW SCRC Metadata Scheme for Internet Archive (Moving Images and Audio)](/assets/files/csv/MetadataScheme_GWSCRC_AudioVideo.xlsx)
+- [GW SCRC Metadata Scheme for Internet Archive (Documents and Text)](/assets/files/MetadataScheme_GWSCRC_Documents.xlsx)
+- [GW SCRC Metadata Scheme for Internet Archive (Moving Images and Audio)](/assets/files/MetadataScheme_GWSCRC_AudioVideo.xlsx)
 - [Example Upload CSV - Documents and Text]()
 - [Example Upload CSV - Moving Images and Audio]()
   
