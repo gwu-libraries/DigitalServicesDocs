@@ -7,14 +7,13 @@ has_children: true
 ---
 ## Digital Objects in ArchivesSpace
 
-Digital object records in ArchivesSpace are used to link archival object records to their digital manifestations. A Digital object in ArchivesSpace is an *instance record.* 
-
+Digital object records in ArchivesSpace are used to link archival object records to their digital manifestations.
 Digital object records are encoded in EAD as [*digital archival object* elements](https://www.loc.gov/ead/EAD3taglib/EAD3-TL-eng.html#elem-dao). EAD defines a DAO as: 
 "A child element of < did > used for linking to born digital records or a digital representation of the materials being described"
 
 ## Background
 
-When locating physical materials, we use two types of records (top level containers and locations) to locate non-digital materials. The top level containers define the real-world objects that staff pick up, move, store, ship, and otherwise locate and handled in the real world. A top level container is a type of what ArchivesSpace calls an “instance”. Aspace offers two types of instances:
+When locating physical materials, we use two types of records (top level containers and locations) to locate non-digital materials. The top level containers define the real-world objects that staff pick up, move, store, ship, and otherwise locate and handled in the real world. A top level container is a type of what ArchivesSpace calls an “instance”. ArchivesSpace offers two types of instances:
 - top level container
 - digital object
 
