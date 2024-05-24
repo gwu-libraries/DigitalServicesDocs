@@ -27,13 +27,12 @@ The SCRC digitization lab provides access to Adobe Premiere. You may also reques
 
 
 # File Naming for Caption and Subtitle Files
-WebVTT files should inherent the file name of the AV source file. The file name should also include information about the language and WebVTT type to improve accessibility.
+WebVTT files should inherent the file name of the AV source file. The file name should also include information about the language to improve accessibility. 
 
 Example:
 - *Source AV File*: ms0000_s01_ss02_c03_i01.mp4
-- *WebVTT Type*: caption
 - *Language*: eng
-- **WebVTT file**: ms0000_s01_ss02_c03_i01.caption.eng.vtt
+- **WebVTT file**: ms0000_s01_ss02_c03_i01_eng.vtt
 
 # Metadata for WebVTT 
 See [Guidelines for Embedding Metadata in WebVTT Files (FADGI)](https://www.digitizationguidelines.gov/guidelines/accessibilty_WebVTT.html). Required elements should be used when possible. The following elements are *always recommended*:
