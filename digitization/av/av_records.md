@@ -4,7 +4,7 @@ title: "Enhancing AV records"
 permalink: /digitization/avrecords/
 parent: "Digitization: Audiovisual Carriers"
 grand_parent: Digitization
-nav_order: 1
+nav_order: 3
 ---
 
 When digitizing audiovisual carriers we should update finding aids to reflect new information gained from the digitization process. Use the following fields in ArchivesSpace to hold new information.
