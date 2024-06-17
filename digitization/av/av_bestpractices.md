@@ -48,4 +48,19 @@ Preservation master files should represent the entirety of the source material. 
 | --------------- | ---------------- | 
 | MPEG-4 (MP4) | H.264 | 
 
-    
+## Submission Information Packet for AV content
+
+Digitized av content is often multiple components. These components should be packed in a single submission information packet for ingest into SCRC digital storage. 
+
+Example SIP for a/v content:
+
+```
+ms2374_s2_c107d_f7_i1
+├── ms2374_s2_c107d_f7_i1_001.mov
+├── ms2374_s2_c107d_f7_i1_002.mov
+└── access
+    ├── ms2374_s2_c107d_f7_i1_001.mp4
+    ├── ms2374_s2_c107d_f7_i1_001_eng.vtt
+    ├── ms2374_s2_c107d_f7_i1_002.mp4
+    └── ms2374_s2_c107d_f7_i1_002_eng.vtt
+```

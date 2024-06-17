@@ -11,7 +11,7 @@ nav_order: 1
 
 This is not policy, but rather a guiding document. For various reasons, projects might not be able to fulfill these recommendations. At present, technical debt related to storage and access systems makes these recommendations difficult to fulfill.
 
-These specifications remain aspirational, but serious efforts should be made to adhere to them to better ensure the long-term preservation and usability of digitized audio and moving image material.
+These specifications remain aspirational, but serious efforts should be made to adhere to them to better ensure the long-term preservation and usability of digitized texts and graphics.
 
 ## Documents and manuscripts (unbound)
 
