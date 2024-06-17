@@ -54,7 +54,6 @@ Digitized av content is often multiple components. These components should be pa
 
 Example SIP for a/v content:
 
-
 ```
 ms2374_s2_c107d_f7_i1
 ├── ms2374_s2_c107d_f7_i1_001.mov
