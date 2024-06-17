@@ -41,5 +41,47 @@ See [Guidelines for Embedding Metadata in WebVTT Files (FADGI)](https://www.digi
 - Language
 - Originating File
 
+# Example WebVTT
+
+```
+WEBVTT
+Type: caption
+Language: eng
+Responsible Party: US, GWU/SCRC
+File Creator: GWU/SCRC
+File Creation Date: 2024-05-22
+Originating File: rg0131_s04_ss02_c02_i04.mp4
+
+00:01:48.000 --> 00:01:50.000
+ Thank you very much.
+
+00:01:50.000 --> 00:01:55.000
+ And now we are going into our next topic.
+
+00:01:55.000 --> 00:02:00.000
+ And it's beyond the next election.
+
+00:02:00.000 --> 00:02:08.000
+ And you know the next president of the United States will be sworn in, will have been sworn in,
+
+00:02:08.000 --> 00:02:14.000
+ a year, one year, one week, and one day from now.
+
+00:02:14.000 --> 00:02:18.000
+ Not quite one day, 22 hours.
+
+00:02:18.000 --> 00:02:29.000
+ And that is a little too long to predict what, not only who he'll be and what party,
+
+00:02:29.000 --> 00:02:35.000
+ but also what the conditions are under which he will take over,
+
+00:02:35.000 --> 00:02:41.000
+ except that based on the last half, last dozen or so inaugurations,
+
+00:02:41.000 --> 00:02:45.000
+ you can predict a snowstorm in Washington for the day.
+```
+
 ---
 [^1]: Dave Rodriguez, Bryan J. Brown, and Florida State University Libraries, “Comparative Analysis of Automated Speech Recognition Technologies for Enhanced Audiovisual Accessibility,” The Code4Lib Journal, no. 58 (December 4, 2023), https://journal.code4lib.org/articles/17820.
