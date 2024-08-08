@@ -19,7 +19,7 @@ The Digital Services Unit supports access to audiovisual material. **However, we
 | Audio | Compact Cassette | Tascam 202mkvii |                   |  
 | Audio | Phonograph record (grooved media) | Audio-Technica AT-PL120 | |
 | Moving Image | VHS | JVC HR-S9900U | |
-| Moving Image | U-matic SP | JVC HR-S9900U | Small and fullsize |
+| Moving Image | U-matic SP | Sony BVU 950 | Small and fullsize |
 | Moving Image | Betacam SP | Sony UVW-1800 | This does not include digibeta or betamax formats!|
 
 All other formats may not be transferred in-house and must be sent to a digitization vendor.
