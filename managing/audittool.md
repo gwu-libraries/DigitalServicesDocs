@@ -2,8 +2,9 @@
 layout: page
 title: "Audit Tool"
 permalink: /managing/audittool/
-parent: Managing Digital Collections - Access and Preservation
 ---
+# **This tool has been depreciated!** 
+
 # Audit Tool
 [Github Repo](https://github.com/gwu-libraries/audit-tool)
 
