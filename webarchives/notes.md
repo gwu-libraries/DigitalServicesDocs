@@ -4,7 +4,7 @@ title: "Web Archives - Notes"
 permalink: /webarchives/notes/
 parent: GW Web Archives
 ---
-# Helpful Resources
+## Helpful Resources
 - [Known Platform Issues ](https://support.archive-it.org/hc/en-us/articles/9897233696148-Social-media-and-other-platforms-status)
   - A selection of platforms that the Archive-It team monitors for changes in capture and replay. 
 - [Scoping Recommendations for Specific Sites](https://support.archive-it.org/hc/en-us/sections/201841373)
@@ -17,14 +17,18 @@ parent: GW Web Archives
     - Archiving Tableau
 - [Archive-It Blog Post on use of Youtube-Dl in Archive-it Stack](https://archive-it.org/post/the-stack-youtube-dl-guide/)
 
-# General Notes:
+## Helpful Resources for Web Admins/Website Owners
+- [Creating Preservable Websites(Library of Congress)](https://www.loc.gov/programs/web-archiving/for-site-owners/creating-preservable-websites/)
+- [Web Archivability (Nicholas Taylor)](https://nullhandle.org/web-archivability/index.html)
+
+## General Notes:
 - Brozzler crawls can not be scheduled. This is problematic as more and more of our regularly crawled sites require Brozzler.
 - Expanding Crawl to Accept Vimeo Videos
   - Add the following seed scope rules:
     - Ignore Robots.txt
     - Expand Scope to include URL if it matches the SURT: http://(com,vimeocdn
 
-# Seed/Crawl Notes
+## Seed/Crawl Notes
 - [President Granberg Inauguration](https://inauguration.gwu.edu/) (no longer active)
   - Embedded media not compliant with youtube-dl
 - GW Law Course Catalog 

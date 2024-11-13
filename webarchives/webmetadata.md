@@ -56,7 +56,7 @@ Metadata should be applied to seeds in Archive-It when they are created. It is *
 | **Required**     | Explanation                                                                                                                                                            |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Definition                   | Organization responsible for collecting the archived content.                                                                                                          |
-| Example Usage for SCRC       | - Special Collections Research Center, The George Washington University<br> - George Washington University Libraries                                                        |
+| Example Usage for SCRC       | - Special Collections Research Center. The George Washington University<br> - George Washington University Libraries                                                        |
 | Standards                    | DACS 2.2                                                                                                                                                               |
 | Guidance                     | Identify the institution responsible for selecting websites for archiving, crawling the websites, and creating and maintaining the metadata that describes the content |
 | Note                         | Use SCRC when content falls under SCRC collecting scope. Use GW Libraries when content falls outside of SCRC collecting scope.                             
