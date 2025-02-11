@@ -9,6 +9,11 @@ nav_order: 1
 
 These instructions are a work in progress. Efforts are underway to integrate the creation of digital object records within broader workflows. These new workflows would generate digital object records upon ingest into the preservation environment or access systems.
 
+# Using package_and_ship
+[package_and_ship](https://github.com/gwu-libraries/package_and_ship)
+
+DAO records are automatically created when using the package_and_ship tool to ingest content into SCRC's digital collection storage. A DAO record created by this tool hold will hold `File URI` values that point to the content in the storage area.
+
 # Using Digital Object Creator (Google Colab Notebook)
 [Aspace Digital Object Creator](https://drive.google.com/drive/folders/1br8rcrGZlsoAOBGiLDVIG12c8szJwXuQ?usp=drive_link)
 
