@@ -7,7 +7,7 @@ nav_order: 1
 ---
 # Naming and Organizing Digital Surrogate Files
 
-Prior to actually starting any digitization project you should decide on a structure and scheme for organizing and naming the files you produce. 
+Prior to starting any digitization project you should decide on a structure and scheme for organizing and naming the files you produce. 
   
 ## Using RefIDs for File Names
 
@@ -15,18 +15,25 @@ For material that is represented in ArchivesSpace by a corresponding archival ob
 
 Start by creating a directory (folder) with the refid as the name. Any files that you produce should use the refid as the basis of the file name.
 
-### Example: 2-sided cassette
+### Example: two 2-sided cassettes represented by a single archival object
 
 ```
 root_folder/
 ├── ref9916/
-  ├── ref9916_001.wav
-  ├── ref9916_002.wav
+  ├── ref9916_001_a.wav
+  ├── ref9916_001_b.wav
+  ├── ref9916_002_a.wav
+  ├── ref9916_002_b.wav
   └── derivatives/
-      ├── ref9916_001.mp3
-      ├── ref9916_001_caption_eng.vtt
-      ├── ref9916_002.mp3
-      └── ref9916_002_caption_eng.vtt
+      ├── ref9916_001_a.mp3
+      ├── ref9916_001_a_caption_eng.vtt
+      ├── ref9916_001_b.mp3
+      ├── ref9916_001_b_caption_eng.vtt
+      ├── ref9916_002_a.mp3
+      ├── ref9916_002_a_caption_eng.vtt
+      ├── ref9916_002_b.mp3
+      └── ref9916_002_b_caption_eng.vtt
+      
 ```
 
 ### Example: text-based document
